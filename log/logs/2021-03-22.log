@@ -1,0 +1,163 @@
+2021-03-22 15:31:59,445 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:32:02,229 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:32:04,898 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:32:07,707 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:53:25,162 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:53:25,167 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:53:25,170 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:53:27,915 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:53:27,919 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:53:27,920 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:53:30,866 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:53:30,871 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:53:30,871 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:53:34,557 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:53:34,565 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:53:34,566 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:54:39,108 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:54:39,113 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:54:39,119 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:54:41,986 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:54:41,994 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:54:41,994 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:54:44,756 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:54:44,760 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:54:44,761 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:54:47,689 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:54:47,695 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:54:47,696 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:55:32,824 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:55:32,829 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:55:32,835 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:55:35,583 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:55:35,590 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:55:35,590 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:55:38,347 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:55:38,353 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:55:38,353 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:55:41,197 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:55:41,201 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:55:41,203 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:57:29,364 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:57:29,369 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:57:29,373 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:57:29,699 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:57:29,708 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:57:29,709 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:57:30,077 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:57:30,081 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:57:30,082 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:57:30,755 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:57:30,760 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:57:30,760 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:58:20,914 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:58:20,917 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:58:20,921 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:58:23,616 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:58:23,620 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:58:23,620 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:58:26,364 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:58:26,366 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:58:26,367 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 15:58:29,101 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 15:58:29,104 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 15:58:29,105 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:34:22,111 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:34:22,116 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 16:34:22,119 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:34:24,831 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:34:24,834 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 16:34:24,835 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:34:27,733 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:34:27,736 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 16:34:27,737 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:34:30,534 first_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:34:30,537 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 16:34:30,538 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:35:12,785 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:35:13,083 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:35:13,392 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:36:37,993 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:36:40,720 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:36:43,061 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:36:43,064 register_handle.py--> click_user_agreement_button 20: INFO ----->确认协议成功：
+2021-03-22 16:36:43,067 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-layer-btn0
+2021-03-22 16:39:24,617 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:39:25,418 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:39:25,737 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:41:08,451 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:41:08,751 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:41:09,085 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:58:16,006 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:58:18,318 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:58:20,698 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:59:06,646 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:59:08,987 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:59:11,314 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 16:59:11,319 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:03:59,332 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:03:59,339 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:04:01,666 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:04:01,670 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:04:05,043 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:04:05,046 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:21:06,800 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:21:09,191 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:21:11,687 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:23:58,599 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:24:00,984 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:24:03,344 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:26:49,620 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:26:51,984 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:26:54,328 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:34:38,168 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:34:38,174 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:34:40,906 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:34:40,909 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:34:43,234 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:34:43,236 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-22 17:36:35,113 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:36:35,119 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 17:36:37,434 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:36:37,437 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 17:36:39,773 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:36:39,776 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 17:42:59,291 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:42:59,297 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:43:01,672 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:43:01,675 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:43:04,229 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:43:04,232 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:45:42,748 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:45:42,754 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:45:45,462 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:45:45,466 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:45:48,176 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:45:48,180 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item
+2021-03-22 17:56:17,538 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:56:17,571 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:璐﹀彿瀵嗙爜鐧诲綍
+2021-03-22 17:56:19,889 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:56:19,892 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:璐﹀彿瀵嗙爜鐧诲綍
+2021-03-22 17:56:22,346 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 17:56:22,351 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:璐﹀彿瀵嗙爜鐧诲綍
+2021-03-22 18:21:58,308 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:21:58,313 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:22:00,700 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:22:00,705 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:22:03,281 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:22:03,284 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:25:25,644 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:25:25,650 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:25:28,028 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:25:28,031 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:25:30,352 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:25:30,356 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:28:28,122 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:28:28,127 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:28:30,485 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:28:30,488 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:28:33,034 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:28:33,037 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:layui-nav-item layui-this
+2021-03-22 18:33:07,645 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:33:09,997 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-22 18:33:12,308 second_case.py--> setUp 20: INFO ----->this is  chrome

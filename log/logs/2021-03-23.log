@@ -1,0 +1,348 @@
+2021-03-23 09:07:32,506 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:07:35,054 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:07:38,223 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:23:22,732 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:23:25,967 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:23:28,886 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:48:24,089 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:48:24,582 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 09:48:27,131 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:48:27,134 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 09:48:29,907 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:48:29,911 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 09:55:42,371 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:55:42,377 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 09:55:44,809 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:55:44,816 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 09:55:47,279 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 09:55:47,285 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:current
+2021-03-23 10:22:51,801 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:22:56,269 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:23:01,498 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:30:47,814 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:30:52,220 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:30:56,639 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:31:56,008 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:32:00,402 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:32:04,826 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:35:39,133 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:35:41,229 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 10:35:41,232 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:35:43,994 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:35:46,067 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 10:35:46,069 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:35:48,674 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:35:50,761 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 10:35:50,763 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:47:38,421 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:47:40,521 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 10:47:40,524 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:47:43,111 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:47:45,711 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:50:02,487 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:50:04,578 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 10:50:04,588 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:50:06,942 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:50:09,030 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 10:50:09,032 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:50:13,811 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:50:15,882 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 10:50:15,885 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:53:54,396 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:53:56,505 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 10:53:56,517 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:53:58,884 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:54:00,962 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 10:54:00,963 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 10:54:03,390 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 10:54:05,468 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 10:54:05,470 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:00:10,902 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:00:15,440 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:00:19,923 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:01:23,123 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:01:25,213 register_handle.py--> send_user_account 20: INFO ----->"请输入手机号码/邮箱：" + useraccount
+2021-03-23 11:01:25,224 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:01:27,648 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:01:29,721 register_handle.py--> send_user_account 20: INFO ----->"请输入手机号码/邮箱：" + useraccount
+2021-03-23 11:01:29,723 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:01:32,810 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:01:34,897 register_handle.py--> send_user_account 20: INFO ----->"请输入手机号码/邮箱：" + useraccount
+2021-03-23 11:01:34,900 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:03:56,188 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:04:00,690 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:04:06,507 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:15:22,547 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:15:26,992 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:15:31,655 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:16:48,506 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:16:50,896 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:16:50,909 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:16:53,300 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:16:55,375 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:16:55,377 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:16:57,766 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:16:59,858 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:16:59,861 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:26:09,633 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:26:14,174 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:26:18,773 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:27:17,126 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:27:19,241 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:27:19,254 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:27:21,450 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:27:21,452 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:27:23,625 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:27:26,573 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:27:28,640 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:27:28,643 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:27:30,777 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 11:27:30,778 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:27:32,860 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:27:35,993 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:27:38,092 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:27:38,095 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:27:40,264 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:27:40,266 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:27:42,405 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:34:39,184 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:34:41,278 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:34:41,291 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:34:43,426 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:34:43,427 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:34:45,561 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip_content
+2021-03-23 11:34:47,988 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:34:50,067 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:34:50,069 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:34:52,249 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 11:34:52,251 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:34:54,394 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip_content
+2021-03-23 11:34:57,240 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:34:59,355 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:34:59,356 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:35:01,553 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:35:01,555 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:35:03,730 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip_content
+2021-03-23 11:41:11,583 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:41:13,686 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:41:13,699 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:41:15,845 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:41:15,847 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:41:18,016 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:41:20,426 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:41:22,495 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:41:22,498 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:41:24,664 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 11:41:24,666 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:41:26,810 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:41:30,659 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:41:32,741 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:41:32,743 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:41:34,885 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:41:34,887 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:41:37,024 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:43:06,121 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:43:08,216 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:43:08,228 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:43:10,333 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:43:10,335 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:43:12,510 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:43:14,883 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:43:16,953 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:43:16,954 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:43:19,099 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 11:43:19,101 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:43:21,213 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:43:23,602 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:43:25,673 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:43:25,675 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:43:27,866 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:43:27,868 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:43:30,028 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:44:34,200 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:44:36,303 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 11:44:36,306 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:44:38,383 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:44:38,385 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:44:40,549 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:44:43,405 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:44:45,481 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 11:44:45,483 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:44:47,654 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 11:44:47,656 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:44:49,783 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 11:44:52,191 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 11:44:54,267 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 11:44:54,269 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 11:44:56,477 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 11:44:56,480 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 11:44:58,618 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:40:01,150 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:40:03,254 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 12:40:03,274 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:40:05,350 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:40:05,350 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:40:07,444 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:40:10,343 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:40:12,442 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 12:40:12,443 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:40:14,563 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 12:40:14,564 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:40:16,661 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:40:19,513 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:40:21,598 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 12:40:21,599 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:40:23,727 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:40:23,729 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:40:25,846 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:41:45,524 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:41:47,609 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 12:41:47,622 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:41:49,827 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:41:49,828 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:41:51,944 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:42:00,576 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:42:02,677 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 12:42:02,679 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:42:04,918 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 12:42:04,919 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:42:06,972 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:42:12,955 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:42:15,060 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 12:42:15,063 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:42:17,230 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:42:17,232 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:42:19,394 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:47:25,227 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:47:27,326 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 12:47:27,329 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:47:29,976 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:47:29,978 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:47:32,110 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:47:35,919 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:47:38,016 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 12:47:38,016 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:47:40,161 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 12:47:40,163 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:47:42,315 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 12:47:47,148 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 12:47:49,259 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 12:47:49,262 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 12:47:51,439 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 12:47:51,442 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 12:47:53,561 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:geetest_radar_tip
+2021-03-23 14:48:42,291 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 14:48:44,390 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 14:48:44,403 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 14:48:46,544 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 14:48:46,547 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 14:48:48,679 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 14:48:53,797 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 14:48:56,296 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 14:48:58,388 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 14:48:58,390 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 14:49:00,555 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 14:49:00,559 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 14:49:02,655 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 14:49:07,750 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 14:49:10,140 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 14:49:12,217 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 14:49:12,219 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 14:49:14,387 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 14:49:14,389 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 14:49:16,566 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 14:49:21,626 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 15:19:09,787 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:19:11,886 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 15:19:11,889 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:19:13,970 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:19:13,970 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:19:16,064 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:19:21,149 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 15:19:23,573 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:19:25,651 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 15:19:25,653 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:19:27,809 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 15:19:27,811 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:19:29,959 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:19:35,118 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 15:19:35,285 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-authCode-error
+2021-03-23 15:19:37,644 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:19:39,733 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 15:19:39,734 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:19:41,855 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:19:41,858 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:19:43,978 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:19:49,033 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-submit1
+2021-03-23 15:24:28,377 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:24:30,484 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 15:24:30,496 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:24:32,682 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:24:32,684 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:24:34,826 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:24:37,798 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:24:39,860 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 15:24:39,862 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:24:42,064 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 15:24:42,066 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:24:44,240 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:24:47,134 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:24:49,199 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 15:24:49,201 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:24:51,407 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:24:51,408 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:24:53,524 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:26:39,621 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:26:41,719 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 15:26:41,732 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:26:43,840 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:26:43,842 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:26:46,017 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:27:16,540 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:27:18,641 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 15:27:18,643 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:27:20,746 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 15:27:20,749 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:27:22,827 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:27:57,971 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:28:00,821 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 15:28:00,822 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:28:02,964 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:28:02,965 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:28:05,069 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:34:24,858 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:34:26,948 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 15:34:26,952 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:34:29,073 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:34:29,075 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:34:31,249 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:35:01,744 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:35:03,841 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 15:35:03,842 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:35:05,945 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 15:35:05,947 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:35:08,045 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 15:35:38,509 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 15:35:40,609 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 15:35:40,612 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 15:35:42,748 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 15:35:42,750 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 15:35:44,861 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 16:21:14,580 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 16:21:16,678 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：1320000
+2021-03-23 16:21:16,691 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 16:21:18,871 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 16:21:18,873 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 16:21:21,030 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 16:21:51,545 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 16:21:53,642 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13200001111
+2021-03-23 16:21:53,644 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 16:21:55,829 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345
+2021-03-23 16:21:55,831 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 16:21:57,997 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
+2021-03-23 16:22:28,384 second_case.py--> setUp 20: INFO ----->this is  chrome
+2021-03-23 16:22:30,474 register_handle.py--> send_user_account 20: INFO ----->请输入手机号码/邮箱：13246821387
+2021-03-23 16:22:30,475 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-userAccount
+2021-03-23 16:22:32,603 register_handle.py--> send_user_passwordt 20: INFO ----->输入的密码是：12345678
+2021-03-23 16:22:32,606 find_element.py--> get_element 20: INFO ----->定位方式id--->定位值:J-password
+2021-03-23 16:22:34,743 find_element.py--> get_element 20: INFO ----->定位方式className--->定位值:geetest_radar_tip
